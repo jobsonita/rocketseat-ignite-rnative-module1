@@ -6,6 +6,7 @@
 
 # :rocket::seat: Ignite Course - React Native Track - Module 1 :iphone:
 
+An app to record our skills.  
 Project based on lessons from [Rocketseat](https://www.rocketseat.com.br/)'s Ignite course (React Native track).
 
 ## :hammer: Status
@@ -23,11 +24,18 @@ Project based on lessons from [Rocketseat](https://www.rocketseat.com.br/)'s Ign
 ## :newspaper: App Interface
 ### :iphone: Planned Design
 
-:construction: WIP
+:construction: This will be an app in which we'll be able to record our skills.
 
 ### :tada: Final Result
 
 :construction: WIP
+
+<details>
+  <summary>Current interface</summary>
+  <p align="center">
+    <img alt="First version of the app" title="First version of the app" src="https://i.imgur.com/432bsLp.png">
+  </p>
+</details>
 
 ## :books: Technologies
 
