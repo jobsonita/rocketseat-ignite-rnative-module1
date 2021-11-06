@@ -33,7 +33,7 @@ Project based on lessons from [Rocketseat](https://www.rocketseat.com.br/)'s Ign
 <details>
   <summary>Current interface</summary>
   <p align="center">
-    <img alt="Current interface of the app" title="Current interface of the app" width="300" src="https://i.imgur.com/C7XFRaG.png">
+    <img alt="Current interface of the app" title="Current interface of the app" width="300" src="https://i.imgur.com/y3PVBwI.png">
   </p>
 </details>
 
