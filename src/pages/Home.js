@@ -36,31 +36,29 @@ export function Home() {
   }, []);
 
   return (
-    <>
-      <View style={styles.container}>
-        <Text style={styles.title}>Welcome, Jobson</Text>
-        <Text style={styles.greeting}>{greeting}</Text>
+    <View style={styles.container}>
+      <Text style={styles.title}>Welcome, Jobson</Text>
+      <Text style={styles.greeting}>{greeting}</Text>
 
-        <TextInput
-          style={styles.input}
-          placeholder="New skill"
-          placeholderTextColor="#555"
-          value={newSkill}
-          onChangeText={setNewSkill}
-        />
+      <TextInput
+        style={styles.input}
+        placeholder="New skill"
+        placeholderTextColor="#555"
+        value={newSkill}
+        onChangeText={setNewSkill}
+      />
 
-        <Button activeOpacity={0.7} onPress={handleAddNewSkill} text="Add" />
+      <Button activeOpacity={0.7} onPress={handleAddNewSkill} text="Add" />
 
-        <Text style={[styles.title, styles.titleSkills]}>My Skills</Text>
+      <Text style={[styles.title, styles.titleSkills]}>My Skills</Text>
 
-        <FlatList
-          data={mySkills}
-          keyExtractor={(item, index) => index.toString()}
-          renderItem={({item}) => <SkillCard skill={item} />}
-          showsVerticalScrollIndicator={false}
-        />
-      </View>
-    </>
+      <FlatList
+        data={mySkills}
+        keyExtractor={(item, index) => index.toString()}
+        renderItem={({item}) => <SkillCard skill={item} />}
+        showsVerticalScrollIndicator={false}
+      />
+    </View>
   );
 }
 
