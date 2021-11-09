@@ -3,6 +3,7 @@
 ![Yarn version](https://img.shields.io/badge/yarn-v1.22.15-brightgreen)
 ![React version](https://img.shields.io/badge/react-^17.0.2-blue)
 ![React Native version](https://img.shields.io/badge/react--native-0.66.2-blue)
+![Typescript](https://img.shields.io/badge/typescript-^4.4.4-lightgray)
 
 # :rocket::seat: Ignite Course - React Native Track - Module 1 :iphone:
 
@@ -42,6 +43,7 @@ Project based on lessons from [Rocketseat](https://www.rocketseat.com.br/)'s Ign
 - [NodeJS](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
 - [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## :calling: Installing and running this project
 
