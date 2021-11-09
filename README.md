@@ -12,7 +12,7 @@ Project based on lessons from [Rocketseat](https://www.rocketseat.com.br/)'s Ign
 
 ## :hammer: Status
 
-> :construction: Ongoing :wrench:
+> :white_check_mark: Finished :lock:
 
 ## :bookmark: Content Table
 <!--ts-->
@@ -23,20 +23,10 @@ Project based on lessons from [Rocketseat](https://www.rocketseat.com.br/)'s Ign
 <!--te-->
 
 ## :newspaper: App Interface
-### :iphone: Planned Design
 
-:construction: This will be an app in which we'll be able to record our skills.
-
-### :tada: Final Result
-
-:construction: WIP
-
-<details>
-  <summary>Current interface</summary>
-  <p align="center">
-    <img alt="Current interface of the app" title="Current interface of the app" width="300" src="https://i.imgur.com/23g0GJw.png">
-  </p>
-</details>
+<p align="center">
+  <img alt="Current interface of the app" title="Current interface of the app" width="300" src="https://i.imgur.com/23g0GJw.png">
+</p>
 
 ## :books: Technologies
 
