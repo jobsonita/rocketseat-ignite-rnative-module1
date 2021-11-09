@@ -2,7 +2,7 @@
 ![Node version](https://img.shields.io/badge/node-v14.18.0-brightgreen)
 ![Yarn version](https://img.shields.io/badge/yarn-v1.22.15-brightgreen)
 ![React version](https://img.shields.io/badge/react-^17.0.2-blue)
-![React version](https://img.shields.io/badge/react--native-0.66.2-blue)
+![React Native version](https://img.shields.io/badge/react--native-0.66.2-blue)
 
 # :rocket::seat: Ignite Course - React Native Track - Module 1 :iphone:
 
